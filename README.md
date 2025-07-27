@@ -14,7 +14,7 @@ As características extraídas pelo melhor autoencoder encontrado são então ut
 ## Estrutura do Repositório
 
 * **`Codigo/Tarefa Computacional 2 V2.ipynb`**: Jupyter Notebook contendo toda a implementação do código, os experimentos e a geração dos resultados e gráficos.
-* **`Relatorio/relatorio.pdf`**: O relatório final em formato de artigo científico, detalhando a metodologia, a análise crítica e as conclusões.
+* **`Relatorio/NC___Atividade_2_V2.pdf`**: O relatório final em formato de artigo científico, detalhando a metodologia, a análise crítica e as conclusões.
 * **`Relatorio/imagens/`**: Pasta contendo os gráficos de convergência (como `ES_PSO_v2.png`) gerados pelo notebook e utilizados no relatório.
 * **`README.md`**: Este arquivo de descrição.
 
